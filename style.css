@@ -79,6 +79,7 @@ header ul li a{
 
 .content .textBox p{
     color: #333;
+    text-align: justify;
 }
 
 .content .textBox a{
