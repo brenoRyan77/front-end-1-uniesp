@@ -1,4 +1,4 @@
-# Tecnoliga Para Front-End I
+# Tecnologia Para Front-End I
 
  ![Banner Readme Ignews](https://github.com/brenoRyan77/imds/blob/main/IMG/starbucks.png)
 # 👷🏻 O Projeto
